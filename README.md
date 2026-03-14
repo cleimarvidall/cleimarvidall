@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Cacov+👋;Founder+&+Engenheiro+de+Software;Arquitetando+soluções+escaláveis;PHP+|+Go+|+Python" alt="Typing SVG" />
-  </a>
+  <img src="./animacao.svg" alt="Animação do Cacov" width="500">
   <br>
   <img src="https://latex.codecogs.com/svg.latex?\color{White}O(N\log%20N)%20\rightarrow%20O(1)" alt="Otimização de Algoritmos" />
   <p><i>"A tecnologia é o meio, mas a preservação e a arquitetura são o legado."</i></p>
