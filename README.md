@@ -13,7 +13,7 @@
 
 ### 🧠 Trajetória & Visão
 
-Atuo no ecossistema de TI desde **2000**, uma jornada que começou no hardware e suporte e evoluiu para a arquitetura de sistemas complexos. Com passagem pelo mercado exterior em suporte a **APIs em Big Techs**, hoje foco minha energia como Founder e Engenheiro de Software, construindo soluções que unem a robustez do legado com a agilidade do moderno.
+Atuo no ecossistema de TI desde **2000**, uma jornada que começou no hardware e suporte e evoluiu para a arquitetura de sistemas complexos. Com passagem pelo mercado exterior em suporte a **APIs em Big Techs**, hoje foco minha energia como **Fundador** do meu próprio negócio e, simultaneamente, como **Acadêmico de Engenharia de Software**, construindo soluções que unem a robustez do legado com a agilidade do moderno.
 
 Sou um defensor do código limpo e da infraestrutura resiliente, entendendo que cada linha escrita deve servir a um propósito maior: a continuidade e a escalabilidade da operação.
 
