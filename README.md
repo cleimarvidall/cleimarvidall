@@ -49,29 +49,9 @@ Nem tudo na vida é bit e byte. Minha paixão reside na história e no **ferreom
 
 ---
 
-### 🕵️ `GET /api/v1/business/contact`
+### 🕵️ `GET /api/v1/identity/handshake`
 
 Para parcerias, networking ou um bom papo sobre ferreomodelismo, decifre o handshake:
-
-```json
-{
-  "status": 200,
-  "identity": "Cacov | Founder & Engineer",
-  "contact": {
-    "phone_challenge": {
-      "country_code": "Raiz quadrada de 3025",
-      "area_code": "0x20 em formato decimal",
-      "number": "+[country_code] ([area_code]) 9 [SEU_NUMERO_AQUI]"
-    },
-    "email_challenge": {
-      "user": "[seu_usuario_do_github]",
-      "domain": "Empresa criadora do Packagist (PHP)",
-      "address": "[user]@[domain].com"
-    }
-  }
-}
-```
-🕵️ GET /api/v1/identity/handshake
 ```Go
 
 // Response representation in Go
@@ -103,17 +83,3 @@ type Response struct {
   }
 }
 ```
-<!--
-**cleimarvidall/cleimarvidall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
