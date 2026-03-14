@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./animacao.svg" alt="Animação do Cacov" width="500">
+  ### Olá, eu sou o Cacov 👋
   <br>
-  $${\Huge \mathbf{\boldsymbol{ {\color{DeepSkyBlue} \mathcal{O}(N \log N)} \color{White} \longrightarrow {\color{SpringGreen} \mathcal{O}(1)} }}}$$
 
-  $$\huge \Huge \color{Green} {\mathcal{O}(N \log N) \longrightarrow \mathcal{O}(1)}$$
   
   <p><i>"A tecnologia é o meio, mas a preservação e a arquitetura são o legado."</i></p>
 </div>
