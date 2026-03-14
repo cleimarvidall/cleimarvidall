@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./animacao.svg" alt="Animação do Cacov" width="500">
   <br>
-  <img src="https://latex.codecogs.com/svg.latex?\color{White}O(N\log%20N)%20\rightarrow%20O(1)" alt="Otimização de Algoritmos" />
+  $$\Huge \color{DeepSkyBlue} {O(N \log N) \rightarrow O(1)}$$
   <p><i>"A tecnologia é o meio, mas a preservação e a arquitetura são o legado."</i></p>
 </div>
 
