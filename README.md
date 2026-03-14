@@ -70,7 +70,39 @@ Para parcerias, networking ou um bom papo sobre ferreomodelismo, decifre o hands
     }
   }
 }
+```
+🕵️ GET /api/v1/identity/handshake
+```Go
 
+// Response representation in Go
+type Response struct {
+    Status  int    `json:"status"`
+    Message string `json:"message"`
+    Data    struct {
+        Identity string `json:"identity"`
+        Contacts struct {
+            Primary   string `json:"phone_primary"`
+            Secondary string `json:"phone_secondary"`
+            Email     string `json:"email_logic"`
+        } `json:"contacts"`
+    } `json:"data"`
+}
+```
+```JSON
+
+{
+  "status": 200,
+  "message": "Handshake successful. Welcome, human.",
+  "data": {
+    "identity": "Cacov",
+    "contacts": {
+      "phone_primary": "+55 (bits_do_IPv4) (√81) (2222 * 4)-(0234)",
+      "phone_secondary": "+55 (2⁵) (3²) (8800 + 8)-(6000 + chmod_all_permissions)",
+      "email_logic": "cleimarvidall @ [serviço_de_email_da_empresa_que_criou_o_Go].com"
+    }
+  }
+}
+```
 <!--
 **cleimarvidall/cleimarvidall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
